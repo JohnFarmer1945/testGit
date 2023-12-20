@@ -4,4 +4,7 @@ git reset --hard
 
 git rm -r --cached .
 
+git branch newBranchName
+git branch -d branchName
+git branch -D branchName
 
