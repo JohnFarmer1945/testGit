@@ -1,0 +1,7 @@
+git checkout 
+git revert
+git reset --hard
+
+git rm -r --cached .
+
+
