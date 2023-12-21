@@ -8,3 +8,7 @@ git branch newBranchName
 git branch -d branchName
 git branch -D branchName
 
+git push URL
+git add remote URL
+git push Zielbranch (in remote) Herkunftsbranch (in local) z.B. git push origin main
+
